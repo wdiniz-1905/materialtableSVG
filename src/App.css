@@ -1,0 +1,17 @@
+foreignObject{
+    width:1000px; 
+    height:1000px;
+}
+svg{
+    height:1000px;
+    width:1000px;
+}
+
+.DIV{
+    position:relative;
+    width: 80%;
+    height:45%;
+    border: 18px dotted  black;
+    margin-Left:30px;
+    background:#FF8C00
+}
